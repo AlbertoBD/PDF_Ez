@@ -1,5 +1,7 @@
 # PDF_ez
  Easy way to make multiple PDF documents.
+ (In folderul pdf_facute sunt pdf-uri finale, facute de program. Disclaimer: preturile si anumite date nu sunt reale.)
+ 
 1. Pentru a rula programul deschide homepage
 
 2. Introdu datele apoi apasa "ok"
