@@ -1,6 +1,6 @@
 # PDF_ez
  Easy way to make multiple PDF documents.
-1. Pentru a rula programul deschide pdf_ez (sau homepage)
+1. Pentru a rula programul deschide homepage
 
 2. Introdu datele apoi apasa "ok"
 
